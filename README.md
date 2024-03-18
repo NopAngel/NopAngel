@@ -9,7 +9,7 @@
 <br /><br />
 
 ``` python
-    pip install mis-stacks
+    pip install mis-stacks📕
 ```
 
 <div style="text-align:center;cursor:pointer;">
