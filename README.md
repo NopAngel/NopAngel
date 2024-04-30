@@ -57,6 +57,6 @@
 * App Clima 0.2 / Tauri,JS,ReactJS
 
 
-![Angel Nieto.]([https://github-readme-stats.vercel.app/api?username=Angel45003&show_icons=true](https://github-readme-stats.vercel.app/api?username=Angel45003&show_icons=true&bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10))
+![Angel Nieto.](https://github-readme-stats.vercel.app/api?username=Angel45003&show_icons=true)
 
 
