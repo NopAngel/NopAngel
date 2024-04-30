@@ -57,11 +57,6 @@
 * App Clima 0.2 / Tauri,JS,ReactJS
 
 
-
-```cmd
-$user-computer:cd Desktop
-$user-computer:cd GithubMD
-$user-computer:echo Cada vez aprendiendo mas cosas :)
-```
+![Anurag's GitHub stats]([https://github-readme-stats.vercel.app/api?username=Angel45003&show_icons=true](https://github-readme-stats.vercel.app/api?username=Angel45003&show_icons=true&bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10))
 
 
