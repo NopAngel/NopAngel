@@ -57,6 +57,4 @@
 * App Clima 0.2 / Tauri,JS,ReactJS
 
 
-![Angel Nieto.](https://github-readme-stats.vercel.app/api?username=Angel45003&show_icons=true)
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/Angel45003/github-readme-stats)
