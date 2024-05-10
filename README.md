@@ -8,9 +8,6 @@
 </p>
 <br /><br />
 
-``` python
-    pip install mis-stacks📕
-```
 
 <div style="text-align:center;cursor:pointer;">
 <img src="https://camo.githubusercontent.com/1b02e4740f3a223bb8693de433e0f0c34427c00db943e39e5d5d44d1a53c53b3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f617374726f2d2532333243323035322e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d617374726f266c6f676f436f6c6f723d7768697465" />
@@ -42,19 +39,7 @@
 <br />
 <br />
 
-### Proyectos creados:
 
-* ToDo  - React, MongoDB
-
-* E-commerce Complete / React, MongoDB
-
-* Bot Food App / <a href="pythonn.org">Python</a>
-
-* Painterest / NodeJS, ExpressJS, Mongoose (MongoDB)
-
-* App Clima / ReactJS
-
-* App Clima 0.2 / Tauri,JS,ReactJS
 
 
 ![Angel GitHub stats](https://github-readme-stats.vercel.app/api?username=Angel45003&show_icons=true&theme=radical)
