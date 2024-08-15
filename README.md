@@ -45,14 +45,25 @@
 
 <img src="https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00" style="max-width:100%;" />
 
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" style="max-width:100%;" />
-
+<img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" style="max-width:100%;" />
 
 </div>
 
 <br />
 <br />
 <br />
+
+## Contact me :D
+
+<a href="https://www.x.com/Nop_angel">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" style="max-width:100%;" />
+</a>
+
+<a href="mailto:angelgabrielnieto@outlook.com">
+    <img src="	https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" style="max-width:100%;" />
+</a>
+
+
 
 
 
