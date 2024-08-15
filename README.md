@@ -33,6 +33,21 @@
 <img src="https://camo.githubusercontent.com/dae3c010f51320fdd641a8569f715acb02ba1e4f882ea816b904625e62a1d03c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5653436f64652d2532333030374143433f7374796c653d666c61742d737175617265266c6f676f3d76697375616c2d73747564696f2d636f6465" alt="VS Code" data-canonical-src="https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&amp;logo=visual-studio-code" style="max-width: 100%;">
 
 <img src="https://camo.githubusercontent.com/4e18aecaaf37d8a46f8fb46a807d93ad14b15bf401438b90d91f4f6d45fb92bf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d566974652d2532333634364346463f7374796c653d666c61742d737175617265266c6f676f3d76697465266c6f676f436f6c6f723d666666666666" alt="Vite" data-canonical-src="https://img.shields.io/badge/-Vite-%23646CFF?style=flat-square&amp;logo=vite&amp;logoColor=ffffff" style="max-width: 100%;">
+
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" style="max-width:100%;" />
+
+<img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white" style="max-width:100%;" />
+
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" style="max-width:100%;" />
+
+
+<img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" style="max-width:100%;" />
+
+<img src="https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00" style="max-width:100%;" />
+
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" style="max-width:100%;" />
+
+
 </div>
 
 <br />
