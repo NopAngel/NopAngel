@@ -47,11 +47,24 @@
 
 <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" style="max-width:100%;" />
 
-<img src="https://img.shields.io/badge/MySQL-3982CE?style=for-the-badge&logo=MySQL&logoColor=4488EE" style="max-width:100%;" />
+<img src="https://img.shields.io/badge/MySQL-3982CE?style=for-the-badge&logo=MySQL&logoColor=white" style="max-width:100%;" />
 
-<img src="https://img.shields.io/badge/PostgreSQL-3982CE?style=for-the-badge&logo=PostgreSQL&logoColor=white" style="max-width:100%;" />
+<img src="https://img.shields.io/badge/PostgreSQL-4488ee?style=for-the-badge&logo=PostgreSQL&logoColor=white" style="max-width:100%;" />
 
-<img src="https://img.shields.io/badge/Astro.JS-3982CE?style=for-the-badge&logo=astro&logoColor=orange" style="max-width:100%;" />
+<img src="https://img.shields.io/badge/Astro.JS-111111?style=for-the-badge&logo=astro&logoColor=orange" style="max-width:100%;" />
+
+<img src="https://img.shields.io/badge/-111111?style=for-the-badge&logo=astro&logoColor=orange" style="max-width:100%;" />
+
+<img src="https://img.shields.io/badge/dbeaver-11111?style=for-the-badge&logo=dbeaver&logoColor=white" style="max-width:100%;" />
+
+<img src="https://img.shields.io/badge/Github-111111?style=for-the-badge&logo=github&logoColor=white" style="max-width:100%;" />
+
+<img src="https://img.shields.io/badge/GIT-222222?style=for-the-badge&logo=git&logoColor=white" style="max-width:100%;" />
+
+<img src="https://img.shields.io/badge/POSTMAN-orange?style=for-the-badge&logo=postman&logoColor=white" style="max-width:100%;" />
+
+<img src="https://img.shields.io/badge/GOLANG-4488ee?style=for-the-badge&logo=go&logoColor=white" style="max-width:100%;" />
+
 
 </div>
 
@@ -67,6 +80,14 @@
 
 <a href="mailto:angelgabrielnieto@outlook.com">
     <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" style="max-width:100%;" />
+</a>
+
+<a href="mailto:angelgabrielnieto@outlook.com">
+    <img src="https://img.shields.io/badge/Instagram-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" style="max-width:100%;" />
+</a>
+
+<a href="https://ig.me/@noangel_brouh/">
+    <img src="https://img.shields.io/badge/Instagram-indigo?style=for-the-badge&logo=instagram&logoColor=white" style="max-width:100%;" />
 </a>
 
 
