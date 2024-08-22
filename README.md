@@ -47,6 +47,12 @@
 
 <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" style="max-width:100%;" />
 
+<img src="https://img.shields.io/badge/MySQL-3982CE?style=for-the-badge&logo=MySQL&logoColor=4488EE" style="max-width:100%;" />
+
+<img src="https://img.shields.io/badge/PostgreSQL-3982CE?style=for-the-badge&logo=PostgreSQL&logoColor=white" style="max-width:100%;" />
+
+<img src="https://img.shields.io/badge/Astro.JS-3982CE?style=for-the-badge&logo=astro&logoColor=orange" style="max-width:100%;" />
+
 </div>
 
 <br />
