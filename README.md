@@ -1,10 +1,9 @@
-# 👋 Hi there!, I'am Programmer
+# What's up people! 💻🔒
 
 
 
 <p>
-    Pasionado por el Diseño Web y por la programación<br/>
-    Cada día investigando / aprendiendo mucho más cosas para mejor :)
+    Front-End Developer with basic knowledge of Back-End:D
 </p>
 <br /><br />
 
