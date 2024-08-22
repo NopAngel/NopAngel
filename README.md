@@ -53,8 +53,6 @@
 
 <img src="https://img.shields.io/badge/Astro.JS-111111?style=for-the-badge&logo=astro&logoColor=orange" style="max-width:100%;" />
 
-<img src="https://img.shields.io/badge/-111111?style=for-the-badge&logo=astro&logoColor=orange" style="max-width:100%;" />
-
 <img src="https://img.shields.io/badge/dbeaver-11111?style=for-the-badge&logo=dbeaver&logoColor=white" style="max-width:100%;" />
 
 <img src="https://img.shields.io/badge/Github-111111?style=for-the-badge&logo=github&logoColor=white" style="max-width:100%;" />
@@ -63,7 +61,7 @@
 
 <img src="https://img.shields.io/badge/POSTMAN-orange?style=for-the-badge&logo=postman&logoColor=white" style="max-width:100%;" />
 
-<img src="https://img.shields.io/badge/GOLANG-4488ee?style=for-the-badge&logo=go&logoColor=white" style="max-width:100%;" />
+<img src="https://img.shields.io/badge/GOLANG-blue?style=for-the-badge&logo=go&logoColor=white" style="max-width:100%;" />
 
 
 </div>
