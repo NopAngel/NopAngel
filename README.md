@@ -27,12 +27,10 @@
 
 <img src="https://camo.githubusercontent.com/6d69932a8b50d918cef7bf17ee009dde389458945828bb7c91ef2174e9c76c03/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d2532333238324333343f7374796c653d666c61742d737175617265266c6f676f3d7265616374" alt="React" data-canonical-src="https://img.shields.io/badge/-React-%23282C34?style=flat-square&amp;logo=react" style="max-width: 100%;">
 
-<img src="https://camo.githubusercontent.com/ee1be1dedb048744598b41c4337eddde8c03e8fcae968d82109e103cb5f1f094/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5461696c77696e644373732d2532333161323032633f7374796c653d666c61742d737175617265266c6f676f3d7461696c77696e642d637373" alt="TailwindCss" data-canonical-src="https://img.shields.io/badge/-TailwindCss-%231a202c?style=flat-square&amp;logo=tailwind-css" style="max-width: 100%;">
 
-<img src="https://camo.githubusercontent.com/6be77b3f54611a814f0c096390a0c311090ca06064d50907afef6a88ab7b336c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5765627061636b2d2532333243334134323f7374796c653d666c61742d737175617265266c6f676f3d7765627061636b" alt="Webpack" data-canonical-src="https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&amp;logo=webpack" style="max-width: 100%;">
-<img src="https://camo.githubusercontent.com/dae3c010f51320fdd641a8569f715acb02ba1e4f882ea816b904625e62a1d03c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5653436f64652d2532333030374143433f7374796c653d666c61742d737175617265266c6f676f3d76697375616c2d73747564696f2d636f6465" alt="VS Code" data-canonical-src="https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&amp;logo=visual-studio-code" style="max-width: 100%;">
+<img src="https://img.shields.io/badge/TailwindCSS-4488ee?style=for-the-badge&logo=tailwindcss&logoColor=white" style="max-width:100%;" />
 
-<img src="https://camo.githubusercontent.com/4e18aecaaf37d8a46f8fb46a807d93ad14b15bf401438b90d91f4f6d45fb92bf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d566974652d2532333634364346463f7374796c653d666c61742d737175617265266c6f676f3d76697465266c6f676f436f6c6f723d666666666666" alt="Vite" data-canonical-src="https://img.shields.io/badge/-Vite-%23646CFF?style=flat-square&amp;logo=vite&amp;logoColor=ffffff" style="max-width: 100%;">
+
 
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" style="max-width:100%;" />
 
@@ -81,7 +79,7 @@
 </a>
 
 
-<a href="https://ig.me/@noangel_brouh/">
+<a href="https://instagram.com/noangel_brouh/">
     <img src="https://img.shields.io/badge/Instagram-indigo?style=for-the-badge&logo=instagram&logoColor=white" style="max-width:100%;" />
 </a>
 
@@ -92,5 +90,3 @@
 
 ![Angel GitHub stats](https://github-readme-stats.vercel.app/api?username=NopAngel&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NopAngel)]
-
-<img src="https://img.shields.io/badge/Developer_FrontEnd:D-black" />
