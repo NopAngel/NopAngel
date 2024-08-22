@@ -45,7 +45,7 @@
 
 <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" style="max-width:100%;" />
 
-<img src="https://img.shields.io/badge/MySQL-3982CE?style=for-the-badge&logo=MySQL&logoColor=white" style="max-width:100%;" />
+<img src="https://img.shields.io/badge/Mysql-3982CE?style=for-the-badge&logo=mysql&logoColor=white" style="max-width:100%;" />
 
 <img src="https://img.shields.io/badge/PostgreSQL-4488ee?style=for-the-badge&logo=PostgreSQL&logoColor=white" style="max-width:100%;" />
 
