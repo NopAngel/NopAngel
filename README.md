@@ -70,16 +70,16 @@
 
 ## Contact me :D
 
-<a href="https://www.x.com/Nop_angel">
+<a href="https://www.x.com/Nop_angel" style="color:transparent;">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" style="max-width:100%;" />
 </a>
 
-<a href="mailto:angelgabrielnieto@outlook.com">
+<a href="mailto:angelgabrielnieto@outlook.com" style="color:transparent;">
     <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=gmail&logoColor=white" style="max-width:100%;" />
 </a>
 
 
-<a href="https://instagram.com/noangel_brouh/">
+<a href="https://instagram.com/noangel_brouh/" style="color:transparent;">
     <img src="https://img.shields.io/badge/Instagram-indigo?style=for-the-badge&logo=instagram&logoColor=white" style="max-width:100%;" />
 </a>
 
