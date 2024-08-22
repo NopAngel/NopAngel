@@ -25,7 +25,7 @@
 <img src="https://camo.githubusercontent.com/b6c08869da57004f4e605da3b92bbe0f1a683ccc2c4dbe3fa195c3a98cf3e61c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e6578742532306a732d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d6e657874646f746a73266c6f676f436f6c6f723d7768697465" />
 
 
-<img src="https://camo.githubusercontent.com/6d69932a8b50d918cef7bf17ee009dde389458945828bb7c91ef2174e9c76c03/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d2532333238324333343f7374796c653d666c61742d737175617265266c6f676f3d7265616374" alt="React" data-canonical-src="https://img.shields.io/badge/-React-%23282C34?style=flat-square&amp;logo=react" style="max-width: 100%;">
+<img src="https://img.shields.io/badge/React.js-4488ee?style=for-the-badge&logo=reactjs&logoColor=white" style="max-width:100%;" />
 
 
 <img src="https://img.shields.io/badge/TailwindCSS-4488ee?style=for-the-badge&logo=tailwindcss&logoColor=white" style="max-width:100%;" />
