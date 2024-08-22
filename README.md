@@ -80,9 +80,6 @@
     <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" style="max-width:100%;" />
 </a>
 
-<a href="mailto:angelgabrielnieto@outlook.com">
-    <img src="https://img.shields.io/badge/Instagram-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" style="max-width:100%;" />
-</a>
 
 <a href="https://ig.me/@noangel_brouh/">
     <img src="https://img.shields.io/badge/Instagram-indigo?style=for-the-badge&logo=instagram&logoColor=white" style="max-width:100%;" />
