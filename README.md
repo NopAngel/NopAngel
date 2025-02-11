@@ -15,6 +15,10 @@
 
 
 <img src="https://img.shields.io/badge/React.js-4488ee?style=for-the-badge&logo=react&logoColor=white" style="max-width:100%;" />
+<img src="https://img.shields.io/badge/C-4488ee?style=for-the-badge&logo=c&logoColor=white" style="max-width:100%;" />
+<img src="https://img.shields.io/badge/C++-4488ee?style=for-the-badge&logo=cplusplus&logoColor=white" style="max-width:100%;" />
+<img src="https://img.shields.io/badge/CMake-4488ee?style=for-the-badge&logo=cmake&logoColor=white" style="max-width:100%;" />
+<img src="https://img.shields.io/badge/Make-4488ee?style=for-the-badge&logo=make&logoColor=white" style="max-width:100%;" />
 
 
 <img src="https://img.shields.io/badge/TailwindCSS-4488ee?style=for-the-badge&logo=tailwindcss&logoColor=white" style="max-width:100%;" />
