@@ -85,5 +85,4 @@
 https://github-readme-stats.vercel.app/api/top-langs/?username=NopAngel&layout=compact
 )]
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=NopAngel&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)]
-
-*** Something to clarify: for some reason the GitHub API to view stats is outdated :( ***
+**Something to clarify: for some reason the GitHub API to view stats is outdated :(**
