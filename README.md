@@ -15,3 +15,21 @@ I am Front-End Developer. Although, right now I'm enjoying developing with C :)
 * Vist my [Website](https://nieto.vercel.app)!
 
 * Techstack: ```[react.js, svelte.js, typescript, javascript, c, c++, go, python, tailwindcss, astro.js]```
+
+```json
+{
+  "os": [
+    "main": "Linux",
+    "distro": "Mint"
+  ],
+  "i": [
+    "language_fav": "C",
+    "language_mostused": "Typescript and C++",
+    "drink_fav": "Coffee with Milk 🥛☕️",
+    "name": "NopAngel",
+    "locale": "es-ES"
+  ],
+}
+```
+
+I love you, chicken fried :P
