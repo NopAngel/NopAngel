@@ -20,7 +20,7 @@ I am Front-End Developer. Although, right now I'm enjoying developing with C :)
 {
   "os": [
     "main": "Linux",
-    "distro": "Mint"
+    "distro": "Arch"
   ],
   "i": [
     "language_fav": "C",
