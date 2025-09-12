@@ -31,5 +31,4 @@ I am Front-End Developer. Although, right now I'm enjoying developing with C :)
   ],
 }
 ```
-
-I love you, chicken fried :P
+*"I use Arch, btw"*
