@@ -1,6 +1,6 @@
 ##### about
 
- `i'am angel! Front-end and *Software Developer*. i currently enjoy developing software, although i occasionally use *Front-End development.*`
+        i'am angel! Front-end and *Software Developer*. i currently enjoy developing software, although i occasionally use *Front-End development.*
 
  ### contacts :)
 
