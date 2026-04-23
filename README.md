@@ -5,4 +5,4 @@ xd
 ![NopAngel stats](https://github-readme-stats.vercel.app/api?username=NopAngel&show_icons=true&theme=gruvbox)
 
 
-*linux>>>*
+*linux>>>* [!["Buy Me A Coffee!"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://ko-fi.com/nopangel)
