@@ -1,5 +1,5 @@
-heyy!
-i'am nopangel or angel andd *i like the blue color* :3 
+heyyyy, *hello worlddd*!
+i'am nopangel or angel (he) andd *i like the blue-color* :3 
 xd
 
 ![NopAngel stats](https://github-readme-stats.vercel.app/api?username=NopAngel&show_icons=true&theme=gruvbox)
