@@ -1,4 +1,4 @@
-heyyyy, *hello worlddd*!
+heyyyy, *hello worlddd* :D!
 i'am nopangel or angel (he) andd *i like the blue-color* :3 
 xd
 
