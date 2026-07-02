@@ -17,12 +17,13 @@ My Workspace:
 
  sherk sys---------------------->
    OS      : Arch Linux x86_64
-   Terminal: Alacritty
-   Editor  :  Emacs/NVIM/VsCode/dium
+   USR     : sherkxd                                                
+   Terminal: Alacritty (tty0 - xterm)                               
+   Editor  :  Emacs/NVIM/VsCode/dium                                
    Tools   : lsd, fancy-tree, yazi, doas
        *   ... neomutt, `xfce4 custom conf`
        *   ... zsh, git/svn && iosevka font (nerd fonts)
-    Browser: Brave && Zen
+    Browser: Chromium && Brave                                 
  <--------------------------------->
 
 
