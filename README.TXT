@@ -27,10 +27,9 @@ My Workspace:
  <--------------------------------->
 
 
-CONTACT ME!
-===========
+[0:00:00] CONTACT ME!
 
-KO-FI     = https://ko-fi.com/nopangell/
-X/TWITTER = https://x.com/Nop_angel/             more info in my portfolio, btw
-PORTFOLIO = https://nopangel.vercel.app/
+[0:00:00]  KO-FI     = https://ko-fi.com/nopangell/                      [ ok ]
+[0:00:00]  X/TWITTER = https://x.com/Nop_angel/                          [ ok ]
+[0:00:00]  PORTFOLIO = https://nopangel.vercel.app/                      [ ok ]
 
