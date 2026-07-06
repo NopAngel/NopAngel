@@ -20,7 +20,7 @@ My Workspace:
    USR     : sherkxd                                                
    Terminal: Alacritty (tty0 - xterm)                               
    Editor  :  Emacs/NVIM/VsCode/dium                                
-   Tools   : lsd, fancy-tree, yazi, doas
+   Tools   : lsd, fancy-tree, yazi, doas (or froot hehe)
        *   ... neomutt, `xfce4 custom conf`
        *   ... zsh, git/svn && iosevka font (nerd fonts)
     Browser: Chromium && Brave                                 
